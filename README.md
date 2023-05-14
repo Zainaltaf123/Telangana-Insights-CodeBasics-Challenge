@@ -25,6 +25,6 @@ Other resources Provided:
 a.    Dataset required to answer preliminary research questions.
 b.    Metadata
 c.    Instructions for using dataset.
+d.    Sample Presentation
 
 I have completed all the requirements
-d.    Sample Presentation
