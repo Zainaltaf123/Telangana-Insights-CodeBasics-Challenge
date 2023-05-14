@@ -1,2 +1,30 @@
 # Telangana-Insights-CodeBasics-Challenge
 Insights to Increase Revenue in Telangana Government Through Tourism
+Following is the Case Study
+Domain:  Tourism | Function: Revenue / Municipal Administration
+
+Telangana is one of India’s leading states and has published its tourism data under its open data policy.
+
+As a data analyst, Peter Pandey saw this as an opportunity to expand his skills and show his work on a bigger scale. Peter Pandey’s idea is to find the patterns in the given data, do additional research, and give data-informed recommendations to the Telangana government which can be used to increase their revenue by improving administrative operations.
+ 
+Peter began his work by framing some primary, and secondary research questions and recommendation ideas.
+
+Task:
+
+Imagine yourself as Peter Pandey and perform the following task.
+
+1.    Check ‘research_questions_and_recommendations.pdf’. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel, PowerPoint) to analyze and answer these questions. More relevant instructions are provided in this document.
+2.    The target audience is top-level officials - hence you need to create a convincing presentation to provide insights/recommendations.
+3.    You can add more research questions and answer them in your presentation that suits your recommendations.
+4.    Be creative with your presentation, audio/video presentation will have more weightage.
+5.    You can use additional data based on your own research to support your recommendations
+6.    Example LinkedIn post 
+
+Other resources Provided:
+
+a.    Dataset required to answer preliminary research questions.
+b.    Metadata
+c.    Instructions for using dataset.
+
+I have completed all the requirements
+d.    Sample Presentation
